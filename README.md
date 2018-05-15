@@ -6,8 +6,8 @@
 			...
 			maven { url 'https://jitpack.io' }
 		}
-	}
+	}`
   Step 2. Add the dependency
-  	dependencies {
+  	`dependencies {
 	        implementation 'com.github.x24232022.AvicLibrarys:AreaSelector:v1.0'
 	}`
